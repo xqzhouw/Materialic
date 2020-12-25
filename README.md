@@ -6,6 +6,6 @@ Google Material Icons for Sketch is a Google icon set for Sketch App. These are 
 
 ---------------------------------------
 
-#### Icons Update 2.1
+#### Icons Update 2.2
 
-The 2.1 update adds 96 new icons.
+The 2.2 update adds 41 new icons.
