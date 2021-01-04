@@ -12,9 +12,9 @@ The 2.2 update adds 41 new icons.
 
 #### Fixes
 
-A HUGE Thanks ![imaaronjames](https://github.com/imaaronjames) for improving the structure & organization of the file!
+A HUGE Thanks [imaaronjames](https://github.com/imaaronjames) for improving the structure & organization of the file!
 
-![imaaronjames](https://github.com/imaaronjames) file includes these revisions:
+[imaaronjames](https://github.com/imaaronjames) file includes these revisions:
 
 Removed nested folders
 Removed all masks and clipping groups
