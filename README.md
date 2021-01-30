@@ -16,9 +16,9 @@ The 2.2 update adds 41 new icons.
 
 A HUGE Thanks [imaaronjames](https://github.com/imaaronjames) and [jpwain](https://github.com/jpwain) for improving the structure & organization of the file!
 
-###Sketch file updates:
+####Sketch file updates:
 
-##v1.1 - Improved structure & organization by [imaaronjames](https://github.com/imaaronjames)
+####v1.1 - Improved structure & organization by [imaaronjames](https://github.com/imaaronjames)
 * Removed nested folders
 * Removed all masks and clipping groups
 * Consolidated all paths into one compound path per icon
@@ -26,7 +26,7 @@ A HUGE Thanks [imaaronjames](https://github.com/imaaronjames) and [jpwain](https
 * Reordered canvas from A-Z
 * Reordered layers from A-Z
 
-##v1.2 - Improved info and coordinates by [jpwain](https://github.com/jpwain)
+####v1.2 - Improved info and coordinates by [jpwain](https://github.com/jpwain)
 * Moved the artboards to start at 0,0 coordinate.
 * Added an _About artboard
 * Added a version string for the file (because it varies from the Google release number) to the About artboard.
