@@ -12,7 +12,7 @@ The 2.2 update adds 41 new icons.
 
 ---------------------------------------
 
-## File fixes and improvments:
+## File fixes and improvements:
 
 A HUGE Thanks [imaaronjames](https://github.com/imaaronjames) and [jpwain](https://github.com/jpwain) for improving the structure & organization of the file!
 
