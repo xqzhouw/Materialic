@@ -32,3 +32,7 @@ A HUGE Thanks [imaaronjames](https://github.com/imaaronjames) and [jpwain](https
 * Added a version string for the file (because it varies from the Google release number) to the About artboard.
 * Set file version to 1.2, tentatively, calling [@imaaronjames](https://github.com/imaaronjames) update 1.1.
 * Added github project URL to the About artboard.
+
+####v1.3 - Improved pixel perfection and scalable aspect ratio
+* Fixed icons size where sometimes, could be slightly off the pixel grid
+* Locked aspect ratio in order to keep scalable icons consistent
