@@ -36,3 +36,7 @@ A HUGE Thanks [imaaronjames](https://github.com/imaaronjames) and [jpwain](https
 ####v1.3 - Improved pixel perfection and scalable aspect ratio
 * Fixed icons size where sometimes, could be slightly off the pixel grid
 * Locked aspect ratio in order to keep scalable icons consistent
+
+####v1.4 - Minor icons updates
+* Some of the the icons found at the official Google Material Icons website, don't match the .svg/.png files, when downloaded. (i.e. ic_person_pin, and almost every ic_sentiment); I've manually fixed them. You can still find the "outdated" versions of those same icons in the file.
+* ic_photo_filter updated
